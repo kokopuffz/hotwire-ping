@@ -1,0 +1,6 @@
+<%= turbo_frame_tag "timestamp" do %>
+  first independent test frame. <%= Time.now.to_formatted_s(:db) %>
+  <div>
+    <%= link_to "click me", "/hotwire/turbo_frame_test" %>
+  </div>
+<% end %>
