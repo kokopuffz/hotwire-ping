@@ -1,0 +1,11 @@
+<%= turbo_frame_tag "counter" do %>
+  <div>time of client request: <%= Time.now.to_formatted_s(:db) %></div>
+  <div>time of client request(in ms): <%= current_time = Time.now.to_f %></div>
+  <div style="color: #<%= random_color %>;"><h1>current count: <%= @counter %></h1></div>
+  <div>time of when server response was received: <%= pinged %></div>
+  <div>time of when server response was received(in ms): <%= pinged_mil = pinged_to_mil %></div>
+  <div><%= link_to "increment", increment_path(counter: @counter) %></div>
+  <h2>PING:</h2>
+  <div>getting the difference in milliseconds</div>
+  <div>(server response - time of response) x 1000 = <%= (pinged_mil - current_time) * 1000 %>ms</div>
+<% end %>
