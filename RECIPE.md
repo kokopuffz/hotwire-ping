@@ -47,7 +47,7 @@ Hotwire is the new default frontend framework for Rails. This was launched with 
   <img src="https://cdn.discordapp.com/attachments/919468128432455700/983963292374540288/aad.PNG" alt="controller" width="400">
 
 
-  The timestamp below the current count, is the time of response. This time is generated from Rails helper. It also contains the random color changer, which changes the color of every increment. The speed of color will change depending on the latency. 
+  The timestamp below the current count, is the time of response. It is generated from Rails helper. It also contains the random color changer, which changes the color of every increment. The speed of color will change depending on the latency. 
 
   <img src="https://cdn.discordapp.com/attachments/919468128432455700/983968215631814666/aae.PNG" alt="helper" width="300">
   
