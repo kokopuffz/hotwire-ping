@@ -1,5 +1,10 @@
 # Hotwire Magic
 
+[Click me to try app!](https://spring-sky-5834.fly.dev/)
+
+Built on [Fly.io](https://fly.io/)
+
+
 Simple self-serve diagnostic tool to measure network pingtime between the browser and the server rendering the page
 
  <img src="https://cdn.discordapp.com/attachments/919468128432455700/983967619096903680/aaa.PNG" alt="page frame" width="500">
