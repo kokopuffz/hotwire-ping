@@ -1,6 +1,6 @@
 # What's My Ping Again?
 
-    This is a simple recipe to check ping/latency of your server. It will also demonstrate the ability of Hotwire and how turbo frames can update parts of  your webpage without reloading/rerending the entire page.
+*This is a simple recipe to check ping/latency of your server. It will also demonstrate the ability of Hotwire and how turbo frames can update parts of  your webpage without reloading/rerending the entire page.*
 
 
 Hi everyone! My name is Grace and I am a recent bootcamp grad, self-taught ruby-ist who is obsessed with Rails and now... Hotwire. So, what is Hotwire?
@@ -32,7 +32,7 @@ Hotwire is the new default frontend framework for Rails. This was launched with 
 
   <img src="https://cdn.discordapp.com/attachments/919468128432455700/983967619096903680/aaa.PNG" alt="page frame" width="500">
     
-      Turbo Frames allow defined parts of a page to be updated on request. Any links and forms inside the frame are captured and the contents update after receiving a response. This makes Turbo in control of both the request to the server and the response from the server.
+  *Turbo Frames allow defined parts of a page to be updated on request. Any links and forms inside the frame are captured and the contents update after receiving a response. This makes Turbo in control of both the request to the server and the response from the server.*
    
       
   The first frame is meant to show how you can interact with one frame and only this frame is affected. When you click on the link, the timestamp of frame one changes but the other remains the same.
@@ -62,7 +62,7 @@ Hotwire is the new default frontend framework for Rails. This was launched with 
 
     As a gamer, sometimes you are allowed to choose what server you want to play in. Picking the server in a closer location means your latency will be lower and the responsiveness will be higher. Which is where [Fly.io](https://fly.io/) comes in!
 
-      Fly is a platform for running full stack apps and databases close to your user. We deliver your application to your users globally, with the highest possible availability and the lowest possible latency.
+  *Fly is a platform for running full stack apps and databases close to your user. We deliver your application to your users globally, with the highest possible availability and the lowest possible latency.*
     
     I hope this was helpful to you all. Please let me know if I am incorrect about anything. I am only a junior rails engineer who is always open to learn more!!
 ---
