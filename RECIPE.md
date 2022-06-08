@@ -1,9 +1,12 @@
 # What's My Ping Again?
 
+Try the [recipe and follow along](https://spring-sky-5834.fly.dev/), easily built and deployed on [Fly.io](https://fly.io/)!
+
 *This is a simple recipe to check ping/latency of your server. It will also demonstrate the ability of Hotwire and how turbo frames can update parts of  your webpage without reloading/rerending the entire page.*
 
 
-Hi everyone! My name is Grace and I am a recent bootcamp grad, self-taught ruby-ist who is obsessed with Rails and now... Hotwire. So, what is Hotwire?
+<!-- 
+Hi everyone! My name is Grace and I am a recent bootcamp grad, self-taught ruby-ist who is obsessed with Rails and now... Hotwire. So, what is Hotwire? -->
 
 Hotwire is the new default frontend framework for Rails. This was launched with Rails 7.0 in December 2021. It uses Turbo and Stimulus to make a Rails app run super fast, like a single page app, making the app feel much more responsive and fast.
 
@@ -18,8 +21,6 @@ Hotwire is the new default frontend framework for Rails. This was launched with 
 ---
 
 - **Solution:**
-
-
 
   After hours of scouring through the internet and unsuccessfully finding a code that displays ping. I read through a PING explanation and crafted a super simple diagnostic tool that you can easily add to your Hotwire page.
 
