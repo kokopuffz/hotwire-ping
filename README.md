@@ -28,7 +28,7 @@ Simple self-serve diagnostic tool to measure network pingtime between the browse
 
 ## requirements
 * Ruby version
-  ruby 3.0.3p157 (2021-11-24 revision 3fb7d2cadc) [x86_64-linux]
+  ruby 2.7.3
 * Rails version
   Rails 7.0.2.3
 * Github
