@@ -68,5 +68,6 @@ Hotwire is the new default frontend framework for Rails. This was launched with 
 ---
 
 - **Read more about it**
+  - [https://fly.io/](https://fly.io/)
   - [https://medium.com/pragmatic-programmers/adding-interactivity-with-turbo-frames-565a51271196](https://medium.com/pragmatic-programmers/adding-interactivity-with-turbo-frames-565a51271196)
   - [https://turbo.hotwired.dev/handbook/frames](https://turbo.hotwired.dev/handbook/frames/)
